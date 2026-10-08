@@ -24,7 +24,7 @@ Obviously, there is a lot of work to be done regarding the benefits women get at
 
 ## Final Visualization
 
-<img src="pictures/final_chart.png" height="500">
+<img src="pictures/final_chart_parental.png" height="500">
 
 ---
 
